@@ -1,1 +1,1 @@
-# Clothing-NLP-Sentiment-Analysis
+# Clothing-Reviews-NLP-Sentiment-Analysis
